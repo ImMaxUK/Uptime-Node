@@ -1,8 +1,26 @@
 {
-	"type": "module",
-	"dependencies": {
-		"chalk": "^5.0.1",
-		"dotenv": "^16.0.1",
-		"node-http-ping": "^0.3.1"
-	}
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "node-http-ping": "^0.3.1"
+  },
+  "name": "uptime-node",
+  "description": "A minimalistic uptime monitor designed to work as CLI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImMaxUK/Uptime-Node.git"
+  },
+  "author": "Max",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ImMaxUK/Uptime-Node/issues"
+  },
+  "homepage": "https://github.com/ImMaxUK/Uptime-Node#readme"
 }
