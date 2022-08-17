@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Personal Website",
+        "type": "https",
+        "address": "https://maxuk.me"
+    },
+    {
+        "name": "Derock's Portfolio",
+        "type": "https",
+        "address": "https://derock.dev"
+    },
+    {
+        "name": "Derock's New Portfolio",
+        "type": "https",
+        "address": "https://derock-dev.vercel.app"
+    },
+    {
+        "name": "Derock's NAS",
+        "type": "https",
+        "address": "https://nas.der.rocks"
+    },
+    {
+        "name": "Max's Awesome Testing Site",
+        "type": "https",
+        "address": "https://awesometestingsite.io"
+    }
+]
