@@ -1,0 +1,8 @@
+{
+	"type": "module",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"dotenv": "^16.0.1",
+		"node-http-ping": "^0.3.1"
+	}
+}

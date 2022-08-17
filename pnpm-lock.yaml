@@ -1,0 +1,33 @@
+lockfileVersion: 5.4
+
+specifiers:
+  chalk: ^5.0.1
+  dotenv: ^16.0.1
+  node-http-ping: ^0.3.1
+
+dependencies:
+  chalk: 5.0.1
+  dotenv: 16.0.1
+  node-http-ping: 0.3.1
+
+packages:
+
+  /bluebird/2.11.0:
+    resolution: {integrity: sha512-UfFSr22dmHPQqPP9XWHRhq+gWnHCYguQGkXQlbyPtW5qTnhFWA8/iXg765tH0cAjy7l/zPJ1aBTO0g5XgA7kvQ==}
+    dev: false
+
+  /chalk/5.0.1:
+    resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
+
+  /dotenv/16.0.1:
+    resolution: {integrity: sha512-1K6hR6wtk2FviQ4kEiSjFiH5rpzEVi8WW0x96aztHVMhEspNpc4DVOUTEHtEva5VThQ8IaBX1Pe4gSzpVVUsKQ==}
+    engines: {node: '>=12'}
+    dev: false
+
+  /node-http-ping/0.3.1:
+    resolution: {integrity: sha512-4q295gTtUXhFYp3CRMsmUWAXwHoB0oKEz3czmO9ZueWDcTcS3sX4I8L5zvdiXRrZpCMhb/TBaY9I27Gi7/Pa1Q==}
+    dependencies:
+      bluebird: 2.11.0
+    dev: false
